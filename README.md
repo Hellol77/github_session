@@ -2,7 +2,7 @@
 
 깃허브 세션을 위한 Repo 입니다!
 
-# 관련 노션
+# 깃허브 세션 notion 정리
 https://sprout-avenue-8fb.notion.site/Git-abc0121f0010485ebee5f36da02e41a1?pvs=4
 
 ## 수정 팁!
