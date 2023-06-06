@@ -2,6 +2,9 @@
 
 깃허브 세션을 위한 Repo 입니다!
 
+# 관련 노션
+https://sprout-avenue-8fb.notion.site/Git-abc0121f0010485ebee5f36da02e41a1?pvs=4
+
 ## 수정 팁!
 
 - ### About의 개인정보를 넣기가 껄끄럽다! 하시는 분! class="main_info_content" 이 있는 div를 지우시면 됩니다.
